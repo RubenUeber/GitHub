@@ -15,4 +15,4 @@ Text \*
 <br/>
 
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
-![Link to microsoft training.](https://learn.microsoft.com/pt-br/training/)
+![Link to microsoft training.](/trainig)
