@@ -7,3 +7,4 @@ Test with **bold** word
 Test with __bold__ word
 Test with __bold and *italic* text__
 \This is all \*\*plain\*\* text\_.
+Text \*\
