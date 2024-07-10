@@ -10,3 +10,5 @@ Test with __bold and *italic* text__
 Text \*
 <br/>
 ######this is text h6
+<br/>
+###### This is H6 text
