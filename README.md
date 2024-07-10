@@ -37,3 +37,9 @@ First|Second
 > This is quoted text
 <br/>
 This is `code`.
+<br/>
+```markdown
+var first = 1;
+var second = 2;
+```
+<br/>
