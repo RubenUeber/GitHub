@@ -35,3 +35,5 @@ First|Second
 3|4
 <br/>
 > This is quoted text
+<br/>
+This is `code`.
