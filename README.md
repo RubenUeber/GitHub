@@ -16,3 +16,6 @@ Text \*
 
 ![Link an image.](/learn/azure-devops/shared/media/mara.png)
 ![Link to microsoft training.](/trainig)
+1. First
+2. Second
+3. Third
