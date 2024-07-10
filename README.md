@@ -12,3 +12,6 @@ Text \*
 ##### this is text h5
 <br/>
 ###### This is H6 text
+<br/>
+
+![Link an image.](/learn/azure-devops/shared/media/mara.png)
