@@ -43,3 +43,7 @@ var first = 1;
 var second = 2;
 ```
 <br/>
+- [x] First task
+- [ ] Second task
+- [x] Third task
+<br/>
