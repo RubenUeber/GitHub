@@ -27,4 +27,9 @@ Text \*
 First | Second
 -|-
 1|2
+<br/>
+First|Second
+-|-
+1|2
+3|4
 3|4
